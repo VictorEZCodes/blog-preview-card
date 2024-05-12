@@ -68,6 +68,11 @@ body {
   align-items: center;
 }
 
+.user-card img {
+  width: 32px;
+  height: 32px;
+}
+
 .user-card p {
   font-weight: 700;
 }
