@@ -22,7 +22,8 @@ body {
   width: 384px;
   height: 522px;
   border-radius: 9px;
-  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5); /* Box shadow */
+/*   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);  */
+  box-shadow: black 15px 15px
 }
 
 .card-content img,
